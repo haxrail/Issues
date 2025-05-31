@@ -40,7 +40,7 @@ Please include:
 We triage issues and track progress here in GitHub:
 
 - [Open Issues](https://github.com/haxrail/Issues/issues)
-- [In Progress (Projects Board)](https://github.com/haxrail/Issues/projects)
+- [In Progress (Projects Board)](https://github.com/orgs/haxrail/projects/2/views/1)
 - [Changelog / Fixed Issues](https://github.com/haxrail/Issues/releases)
 
 ## Thanks!
